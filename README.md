@@ -58,7 +58,8 @@ To run the tests, use the following command:
 ```sh
 ./gradlew test
 ```
-
+Author: Kumar Devashish
+Email: kumardevashish000@gmail.com
 ## Contributing
 
 Contributions are welcome! Please fork the repository and submit a pull request.
